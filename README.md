@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Meghna Hugo](https://themefisher.com/hugo-themes/)
+# [Granda Título](https://themefisher.com/hugo-themes/)
 
 [![GitHub stars](https://img.shields.io/github/stars/themefisher/meghna-hugo.svg)](https://github.com/themefisher/meghna-hugo/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/themefisher/meghna-hugo.svg)](https://github.com/themefisher/meghna-hugo/issues) 
